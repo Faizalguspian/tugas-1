@@ -16,9 +16,9 @@ Github adalah situs web juga sebuah layanan cloud yang bisa membantu para penggu
 
 Sebelum membahas lebih jauh tentang github,kita harus ketahui dulu tentang Version Control System (VCS) dan Git. Version Control System adalah yang memungkinkan pembuat kode mengubah perangkat lunak yang berotensi memperbaiki bug tanpa mempengaruhi perangkat lunak itu sendiri. Sebuah sistem yang menyimpan dan mengelola perubahan dari source code,yang mencatat semua perubahan yang dibuat ke file atau set data sehingga versi tertentu dapat disebut nanti jika diperlukan. Sistem memastikan bahwa semua anggota tim bekerja pada file versi terbaru, dan setiap orang dapat bekerja secara bersamaan pada proyek yang sama.Git adalah sebuah version control alat yang akan memungkinkan anda untuk melakukan semua jenis operasi untuk mengambil data dari server pusat atau push data ke dalamnya sedangkan
 
-GitHub adalah inti hosting platform untuk kontrol versi kolaborasi.github juga berintegrasi dengan layanan seperti amazon,Googel Cloud dan code climate,yang mana dapat menampung sintaks dari 200 bahasa pemograman yg tidak sama.situs pengembangan seperti github tentu ada diantaranya gitlab,BitBucket,SourceForge,GitKraken dan LaunchPad.fitur penting github ada 3 yaitu forking,full request,dan merging.forking sendiri yaitu membuat salinan kode yang mana dapat membuat kita berkesperimen tanpa hambatan tanpa mempengaruhi kode aslinya.
-
-a. Git
+GitHub adalah platform inti hosting untuk kontrol versi kolaborasi.github juga berintegrasi dengan layanan seperti amazon,Googel Cloud dan code climate,yang mana dapat menampung sintaks dari 200 bahasa pemograman yang tidak sama.situs pengembangan github tentu ada diantaranya gitlab,BitBucket,SourceForge, GitKraken dan LaunchPad.fitur penting github ada 3 yaitu forking,full request,dan merging.forking sendiri yaitu membuat kode yang mana dapat membuat kita berkesperimen tanpa hambatan tanpa mempengaruhi kode yang menakutkan.
+kami
+sebuah. Git
 
 Git sendiri adalah jantung atau inti dari GitHub. Git merupakan sistem pengontrol versi yang dikembangkan oleh seseorang yang juga menciptakan dan mengembangkan sistem operasi Linux yaitu Linus Torvalds.
 
